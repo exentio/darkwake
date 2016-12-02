@@ -2,9 +2,10 @@
 
 Color scheme born when I decided that I didn't like blue (((keremorph))) that much.  
 The colors are picked from the cover art of Awake Deluxe by Tycho.  
-![alt text](https://raw.githubusercontent.com/exentio/darkwake/master/awake_deluxe.jpg "Awake Deluxe cover art")
-
+  
 ![alt text](https://raw.githubusercontent.com/exentio/darkwake/master/preview.png "Preview")
+
+![alt text](https://raw.githubusercontent.com/exentio/darkwake/master/awake_deluxe.jpg "Awake Deluxe cover art")
 
 ### Colors
 
@@ -21,7 +22,7 @@ The colors are picked from the cover art of Awake Deluxe by Tycho.
 
 ### How to add the scheme in .Xresources
 
-I decided to use a modular approach, inspired by [dkeg](https://github.com/dkeg) (this means darkwake is compatible with his schemes).
+I decided to use a modular approach, inspired by [dkeg](https://github.com/dkeg) (this means darkwake is compatible with his schemes).  
 To add the scheme to .Xresources, simply paste this into the file, after other settings, and remove the previous colors if present:
 
     #include <darkwake/darkwake>        ! - Change this if the repo isn't inside ~/darkwake
@@ -55,3 +56,7 @@ That's pretty simple: just copy the folder inside `~/.themes` and apply it with 
 ### How to install the Chromium/Google Chrome theme
 
 Simply drop it inside the window
+
+### How to install tint2 theme
+
+Just copy `tint2rc` inside `~/.config/tint2`
