@@ -9,17 +9,18 @@
 #define red   #B67466
 #define grn   #9C6762
 #define ylw   #AF717E
-#define blu   #8e6176
-#define mag   #8f6d88
-#define cyn   #6f6b82
-#define wht   #c8c9c1
+#define blu   #8E6176
+#define mag   #8F6D88
+#define cyn   #6F6B82
+#define wht   #C8C9C1
 
 ! - 16 Colors support
 
-#define bred   #b67466
-#define bgrn   #9c6762
-#define bylw   #af717e
-#define bblu   #8e6176
-#define bmag   #8f6d88
-#define bcyn   #6f6b82
-#define bwht   #c8c9c1
+#define bblk   #3E495F
+#define bred   #B67466
+#define bgrn   #9C6762
+#define bylw   #AF717E
+#define bblu   #8E6176
+#define bmag   #8F6D88
+#define bcyn   #6F6B82
+#define bwht   #C8C9C1
